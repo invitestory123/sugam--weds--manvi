@@ -15,14 +15,14 @@ window.WEDDING_DATA = {
   },
   "wedding": {
     "occasion": "The Wedding Celebrations of",
-    "dateLabel": "23 · 24 · 11 · 2026",
-    "longDate": "23rd & 24th November 2026",
-    "dateISO": "2026-11-23T12:00:00+05:30",
+    "dateLabel": "24 · 11 · 2026",
+    "longDate": "Tuesday, 24th November 2026",
+    "dateISO": "2026-11-24T18:00:00+05:30",
     "endISO": "2026-11-25T02:00:00+05:30",
     "invocation": "॥ श्री गणेशाय नमः॥",
     "salutation": "Dear Family & Friends,",
     "invitationLead": "We cordially invite you to the Wedding Ceremony of our beloved son",
-    "invitationNote": "With the divine blessings of our elders and full hearts, we invite you to share in the wedding celebrations of Sugam & Manvi. Join us for two unforgettable days of love, laughter, vibrant colours, and memories to cherish forever.",
+    "invitationNote": "With the divine blessings of our elders and full hearts, we invite you to share in the wedding celebrations of Sugam & Manvi. Join us for an unforgettable celebration of love, laughter, and memories to cherish forever.",
     "scheduleTitle": "Celebration Itinerary",
     "scheduleNote": "All times are local (IST). We look forward to celebrating with you!",
     "countdownTitle": "Until our celebration begins",
@@ -30,31 +30,7 @@ window.WEDDING_DATA = {
   },
   "schedule": [
     {
-      "dayLabel": "Day 1 · Monday, 23 Nov 2026",
-      "date": "Monday, 23rd November 2026",
-      "title": "Haldi & Cocktail Celebrations",
-      "subtitle": "Mohali Golf Range, Sector 65, Mohali",
-      "events": [
-        {
-          "time": "12:00 PM Onwards",
-          "title": "Suraj Ki Baahon Mein — Haldi Ceremony",
-          "subtitle": "Let's paint the beginning of their forever in the brightest shade of yellow",
-          "location": "Mohali Golf Range, Sector 65, Mohali",
-          "dressCode": "Sunny Vibes",
-          "note": "Haldi, Happiness & You! · With love, Gupta Family"
-        },
-        {
-          "time": "7:00 PM Onwards",
-          "title": "Raise a Glass with Us! — Cocktail & Ring Ceremony",
-          "subtitle": "Before the big vows and the happily-ever-after, let's toast to love, laughter, and a little bit of mischief!",
-          "location": "Mohali Golf Range, Sector 65, Mohali",
-          "dressCode": "Cocktail Glamour / Festive Chic",
-          "note": "In honour of the Ring Ceremony of Sugam & Manvi · Your presence will make the evening even more special!"
-        }
-      ]
-    },
-    {
-      "dayLabel": "Day 2 · Tuesday, 24 Nov 2026",
+      "dayLabel": "Tuesday, 24 Nov 2026",
       "date": "Tuesday, 24th November 2026",
       "title": "The Wedding Day",
       "subtitle": "Blessings, Baraat & Holy Vows",
@@ -83,13 +59,6 @@ window.WEDDING_DATA = {
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palms+Banquet+Zirakpur"
     },
     {
-      "name": "Mohali Golf Range",
-      "role": "Haldi & Cocktail Celebrations",
-      "address": "Sector 65, Mohali, Punjab",
-      "timeLabel": "Monday, 23 November 2026 · 12:00 PM & 7:00 PM Onwards",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mohali+Golf+Range+Sector+65+Mohali"
-    },
-    {
       "name": "Gupta Residence",
       "role": "Sehra Bandi",
       "address": "#5806, Sector-38 West, Chandigarh",
@@ -101,12 +70,12 @@ window.WEDDING_DATA = {
     "name": "Palms Banquet",
     "address": "Zirakpur, Punjab",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palms+Banquet+Zirakpur",
-    "timeLabel": "23rd & 24th November 2026",
+    "timeLabel": "Tuesday, 24th November 2026 · 8:30 PM Onwards",
     "sceneCaption": "Where love and cherished memories unite",
     "note": "We warmly look forward to celebrating with you."
   },
   "details": {
-    "dressCode": "Haldi: Sunny Vibes · Cocktail: Evening Glamour · Wedding: Royal Traditional",
+    "dressCode": "Royal Traditional",
     "giftPreference": "Your warm presence and heartfelt blessings are our greatest gift.",
     "blessing": {
       "message": "Your presence\nwill make our\ncelebrations complete.",
