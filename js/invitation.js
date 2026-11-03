@@ -89,7 +89,12 @@
         
         ${data.couple.grandparents ? `
         <div class="elders-intro reveal">
-          <p class="grandparents-blessing">${text(data.couple.grandparents).replace(/\n/g, '<br>')}</p>
+          ${data.couple.grandparents.includes('\n') ? `
+            <p class="grandparents-lead">${text(data.couple.grandparents.split('\n')[0])}</p>
+            <p class="grandparents-names">${text(data.couple.grandparents.split('\n').slice(1).join(' '))}</p>
+          ` : `
+            <p class="grandparents-blessing">${text(data.couple.grandparents)}</p>
+          `}
         </div>
         ` : ''}
 
