@@ -110,7 +110,7 @@ body{font-size:20px;line-height:1.65}.names{font-size:clamp(64px,15vw,88px);line
 /* Hero supporting copy sits directly on the illustrated stationery. */
 .hero-copy .occasion{margin:0 0 22px;letter-spacing:.22em;text-transform:uppercase}
 .hero-copy .hero-note{margin:22px auto 0;max-width:240px;font-size:16px;line-height:1.5;text-shadow:0 1px 8px var(--paper),0 0 16px var(--paper)}
-.hero-copy .hero-link{margin-top:16px;font-size:11px;letter-spacing:.12em;text-shadow:0 1px 8px var(--paper)}
+.hero-copy .hero-link{margin-top:24px;font-size:11px;letter-spacing:.14em;text-shadow:0 1px 8px var(--paper)}
 
 /* Sugam & Manvi Custom Invitation Styling */
 .invocation {
@@ -628,4 +628,16 @@ body{font-size:20px;line-height:1.65}.names{font-size:clamp(64px,15vw,88px);line
     min-height: 1px;
     margin: 4px auto;
   }
+}
+
+.rsvp-reopen-wrap {
+  margin: 30px auto 0;
+  text-align: center;
+}
+.rsvp-reopen-wrap .reopen {
+  margin: 0 auto;
+  opacity: 0.85;
+}
+.rsvp-reopen-wrap .reopen:hover {
+  opacity: 1;
 }
