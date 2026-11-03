@@ -9,7 +9,7 @@ window.WEDDING_DATA = {
     "brideFull": "Manvi",
     "groomParents": "S/o Mrs. Dimple Gupta & Mr. Anoop Gupta",
     "brideParents": "D/o Mrs. Sarika Sahu & Mr. Naresh Sahu of Kanpur",
-    "grandparents": "With the divine Blessings of Late Sh. Vinod Gupta & Late Smt. Kanta Gupta",
+    "grandparents": "With the divine blessings of\nLate Sh. Vinod Gupta & Late Smt. Kanta Gupta",
     "heroNote": "Together with our families",
     "subtitle": "Destiny brought them together, and now love will seal their bond forever."
   },
@@ -39,13 +39,15 @@ window.WEDDING_DATA = {
           "time": "6:00 PM",
           "title": "Sehra Bandi",
           "subtitle": "Traditional rituals and tying of the auspicious sehra",
-          "location": "At our Residence: #5806, Sector-38 West, Chandigarh"
+          "location": "At our Residence: #5806, Sector-38 West, Chandigarh",
+          "dressCode": "Royal Traditional"
         },
         {
           "time": "8:30 PM",
           "title": "Assembly of Baraat & Wedding Ceremony",
           "subtitle": "Grand procession followed by Varmala & Wedding Celebrations",
-          "location": "Palms Banquet, Zirakpur"
+          "location": "Palms Banquet, Zirakpur",
+          "dressCode": "Royal Traditional"
         }
       ]
     }
@@ -75,7 +77,6 @@ window.WEDDING_DATA = {
     "note": "We warmly look forward to celebrating with you."
   },
   "details": {
-    "dressCode": "Royal Traditional",
     "giftPreference": "Your warm presence and heartfelt blessings are our greatest gift.",
     "blessing": {
       "message": "Your presence\nwill make our\ncelebrations complete.",
@@ -83,7 +84,30 @@ window.WEDDING_DATA = {
       "family": "GUPTA FAMILY"
     }
   },
-  "rsvp": null,
+  "rsvp": {
+    "title": "R.S.V.P.",
+    "subtitle": "Sugam weds Manvi",
+    "contacts": [
+      {
+        "name": "Tarun",
+        "phone": "98154-80218",
+        "tel": "+919815480218"
+      },
+      {
+        "name": "Anoop",
+        "phone": "98153-21000",
+        "tel": "+919815321000"
+      }
+    ],
+    "regardsTitle": "With Warm Regards:",
+    "regards": "Family & Friends",
+    "partner": {
+      "brand": "ANEJA'S",
+      "tagline": "We Make Occasions Tastier",
+      "phone": "+91 83440 00002",
+      "tel": "+918344000002"
+    }
+  },
   "media": {
     "openingVideo": "./media/opening.mp4",
     "openingPoster": "./media/opening-poster.webp",
